@@ -106,10 +106,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Place this `README.md` file in the root directory of your project repository. It will serve as a comprehensive guide for developers and users to understand and interact with your EdTech Integration Hub project.
 
+# contact:
+Name: Tanmay Dutta
+Roll No: 21RISTCSE034
 
 # Deployment:
 
 contract address 0x66CADC7879e7f9A28DB9BDccaefA16D7895cF05D
+![image](https://github.com/user-attachments/assets/132a65f1-708f-4804-b0b1-224e8d741500)
 
-![image](https://github.com/user-attachments/assets/7e836296-08ba-42b9-9bda-0177db8db16a)
 
