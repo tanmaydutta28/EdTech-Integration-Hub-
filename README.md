@@ -90,23 +90,9 @@ The EdTech Integration Hub aims to create a decentralized, transparent, and secu
 1. The student calls the `enrollInCourse(uint _courseId)` function.
 2. Provide the course ID and send the required fee.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-### Explanation of the Sections
-
-- **Vision**: Outlines the overall purpose and goal of the project.
-- **Features**: Lists the key functionalities of the platform.
-- **System Diagram**: Provides a conceptual overview of how the system components interact.
-- **Deployment Details**: Provides step-by-step instructions for deploying the smart contract.
-- **Example Usage**: Demonstrates how to interact with the smart contract.
-- **License**: States the licensing terms for the project.
-
-Place this `README.md` file in the root directory of your project repository. It will serve as a comprehensive guide for developers and users to understand and interact with your EdTech Integration Hub project.
-
-# contact:
+## contact:
 Name: Tanmay Dutta
 Roll No: 21RISTCSE034
 
