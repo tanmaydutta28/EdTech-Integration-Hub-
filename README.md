@@ -95,6 +95,7 @@ The EdTech Integration Hub aims to create a decentralized, transparent, and secu
 ## contact:
 Name: Tanmay Dutta
 Roll No: 21RISTCSE034
+Phone No: 9365889675
 
 # Deployment:
 
